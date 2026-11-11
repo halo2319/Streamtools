@@ -311,5 +311,3 @@ only work for people who have chatted in that chat since ModDeck started.
 - Your sign-ins are stored in the **`data/` folder**. **Never share that folder** (or send it in a zip).
 - ModDeck uses the platforms' own website calls, which are **unofficial**. This may go against their
   terms, and it is used at your own risk.
-- This is a first version and has **not been tested against live accounts**. The Kick and YouTube
-  moderation calls and the Twitch fallback are the most likely to need small fixes.
